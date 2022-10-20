@@ -1,0 +1,40 @@
+* -
+** Tasks
+*** HOLD [#C] 安装Gentoo
+:LOGBOOK:
+CLOCK: [2022-10-20 四 12:24]--[2022-10-20 四 12:49] =>  0:25
+:END:
+*** [#C] 安装 Calculate Linux
+**** DONE Fedora 安装 qBittorent
+**** DONE 下载 Calculate Linux
+**** DONE Flash Calculate Linux 镜像
+:LOGBOOK:
+CLOCK: [2022-10-20 四 16:22]--[2022-10-20 四 16:27] =>  0:05
+:END:
+**** TODO 安装 Calculate Linux
+*** 高考
+**** 高考报名
+**** 英语
+***** DONE 查找英语教材
+:LOGBOOK:
+CLOCK: [2022-10-20 四 15:58]--[2022-10-20 四 16:03] =>  0:05
+:END:
+***** 下载 Solutions
+****** DONE Fedora 下载百度网盘
+:LOGBOOK:
+CLOCK: [2022-10-20 四 16:05]--[2022-10-20 四 16:09] =>  0:04
+:END:
+****** 安装 ArcoLinuxL
+******* STRT 下载 ArcoLinuxL
+:LOGBOOK:
+CLOCK: [2022-10-20 四 16:52]
+CLOCK: [2022-10-20 四 16:42]--[2022-10-20 四 16:44] =>  0:02
+:END:
+******* STRT 上传资料到 github
+**** 物理
+***** 蝶变笔记：高中物理
+****** 电与磁
+******* 静电场
+******** 库伦定律
+********* 知识梳理
+********** TODO 电荷

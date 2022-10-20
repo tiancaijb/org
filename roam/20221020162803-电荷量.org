@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       09c155ca-1aef-40f8-8542-fe72e86f42c5
+:END:
+#+title: 电荷量
+
+电荷的多少
